@@ -1,1 +1,1 @@
-# syn
+# Synonym Generator
